@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JC-April
 - 👀 I’m interested in Data science and fullstack development
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on Data Science and web development projects
 - 📫 How to reach me jimkronicles@gmail.com
 
