@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JC-April
-- 👀 I’m interested in Data science and fullstack development
+- 👀 I’m interested in fullstack development and data analysis
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on Data Science and web development projects
-- 📫 How to reach me jimkronicles@gmail.com
+- 💞️ I’m looking to collaborate on web development and data analysis projects
+- 📫 Reach me via email: jimkronicles@gmail.com
 
 <!---
 JC-April/JC-April is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
