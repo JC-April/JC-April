@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JC-April
-- 👀 I’m interested in fullstack development and data analysis
+- 👀 I’m interested in cloud computing and fullstack development
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on web development and data analysis projects
+- 💞️ I’m looking to collaborate on cloud computing and web development projects
 - 📫 Reach me via email: jimkronicles@gmail.com
 
 <!---
