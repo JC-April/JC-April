@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JC-April
 - 👀 I’m interested in cloud and fullstack development
-- 🌱 I’m currently learning cloud development
+- 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on cloud and web development projects
 - 📫 Reach me via email: jimkronicles@gmail.com
 
